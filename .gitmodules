@@ -1,0 +1,3 @@
+[submodule "downate-frontend"]
+	path = downate-frontend
+	url = https://github.com/Maicarons2022/downate-frontend.git
